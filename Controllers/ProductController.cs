@@ -1,8 +1,8 @@
-﻿using csharp_action_filters.ActionFilters;
-using csharp_action_filters.Entities;
+﻿using csharp_api_aspnetcore_action_filters.ActionFilters;
+using csharp_api_aspnetcore_action_filters.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-namespace csharp_action_filters.Controllers
+namespace csharp_api_aspnetcore_action_filters.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]

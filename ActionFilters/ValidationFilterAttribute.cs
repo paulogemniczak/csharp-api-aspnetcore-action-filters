@@ -1,8 +1,8 @@
-﻿using csharp_action_filters.Contracts;
+﻿using csharp_api_aspnetcore_action_filters.Contracts;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace csharp_action_filters.ActionFilters
+namespace csharp_api_aspnetcore_action_filters.ActionFilters
 {
 	public class ValidationFilterAttribute : IActionFilter
 	{

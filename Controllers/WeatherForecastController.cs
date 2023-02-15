@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace csharp_action_filters.Controllers
+namespace csharp_api_aspnetcore_action_filters.Controllers
 {
 	[ApiController]
 	[Route("[controller]")]

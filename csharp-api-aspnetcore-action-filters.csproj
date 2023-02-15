@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>csharp_action_filters</RootNamespace>
+    <RootNamespace>csharp_api_aspnetcode_action_filters</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

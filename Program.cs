@@ -1,4 +1,4 @@
-using csharp_action_filters.ActionFilters;
+using csharp_api_aspnetcore_action_filters.ActionFilters;
 using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);

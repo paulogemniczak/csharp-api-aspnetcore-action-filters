@@ -1,4 +1,4 @@
-namespace csharp_action_filters
+namespace csharp_api_aspnetcore_action_filters
 {
 	public class WeatherForecast
 	{

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-action-filters", "csharp-action-filters.csproj", "{6AFAE2F5-6468-4E47-A2E5-E7C399CF0DDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-api-aspnetcore-action-filters", "csharp-api-aspnetcore-action-filters.csproj", "{6AFAE2F5-6468-4E47-A2E5-E7C399CF0DDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
